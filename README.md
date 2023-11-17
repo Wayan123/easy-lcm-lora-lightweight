@@ -1,9 +1,9 @@
 # Mudah dan ringan menjalankan Stable Difussion pada CPU
 
-Note: Kode ini sudah dimodifikasi sedemikian rupanya dan disesuaikan dengan kebutuhan.
+## Note: Kode ini sudah dimodifikasi sedemikian rupanya dan disesuaikan dengan kebutuhan.
 
-Repo asli: https://github.com/luosiallen/latent-consistency-model.git 
-Huggingface link untuk Super Fast lcm lora stable difussion: https://huggingface.co/spaces/latent-consistency/super-fast-lcm-lora-sd1.5
+- Repo asli: https://github.com/luosiallen/latent-consistency-model.git 
+- Huggingface link untuk Super Fast lcm lora stable difussion: https://huggingface.co/spaces/latent-consistency/super-fast-lcm-lora-sd1.5
 
 Pada kode asli dari https://huggingface.co/spaces/latent-consistency/super-fast-lcm-lora-sd1.5 dibuat safety_checker aktif secara default, sedangkan pada kode berikut didisable dengan kode berikut:
 
