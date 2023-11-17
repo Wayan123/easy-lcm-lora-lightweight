@@ -11,3 +11,12 @@ Pada kode asli dari https://huggingface.co/spaces/latent-consistency/super-fast-
 
 Refrensi kode dari komentar: https://github.com/CompVis/stable-diffusion/issues/331#issuecomment-1562198856
 
+## Cara Menjalankan
+
+0. Pada tutorial ini menggunakan Miniconda, 
+
+1. Install Pytorch
+
+   
+
+3. 
