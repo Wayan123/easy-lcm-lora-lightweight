@@ -19,3 +19,5 @@ Refrensi kode dari komentar: https://github.com/CompVis/stable-diffusion/issues/
 3. Install Accelerate 'pip install accelerate'
 4. Install Transformer 'pip instal transformers'
 5. Install PEFT 'pip install peft'
+
+Run 'streamlit run super-fast-lcm-lora-sd1.5-streamlit.py'
