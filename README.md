@@ -14,8 +14,8 @@ Refrensi kode dari komentar: https://github.com/CompVis/stable-diffusion/issues/
 ## Cara Menjalankan
 
 0. Pada tutorial ini menggunakan Miniconda, 
-
 1. Install Pytorch
 2. Install Steamlit 'pip install streamlit'
 3. Install Accelerate 'pip install accelerate'
 4. Install Transformer 'pip instal transformers'
+5. Install PEFT 'pip install peft'
